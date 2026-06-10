@@ -6,13 +6,13 @@
 
 # About Me
 
-- ? I'm a student in Da Lian.
+- 🌱 I'm a student in Da Lian.
 
-- ? I'm interested in open source technology.
+- 💡 I'm interested in open source technology.
 
-- ? I love creating videos.
+- 🎬 I love creating videos.
 
-- ? I was a RedstoneMusic creator.
+- 🎵 I was a RedstoneMusic creator.
 
 # My Social Media
 
