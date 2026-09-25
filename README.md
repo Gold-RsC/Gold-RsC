@@ -6,13 +6,13 @@
 
 # About Me
 
-- 🌱 I'm a student in Da Lian.
+- 🌱 Currently a student living in Dalian.
 
-- 💡 I'm interested in open source technology.
+- 💡 Deeply interested in open source — I like contributing to projects and learning in public.
 
-- 🎬 I love creating videos.
+- 🎬 I enjoy creating videos and sharing what I learn.
 
-- 🎵 I was a RedstoneMusic creator.
+- 🎵 I used to be a RedstoneMusic creator, making music with noteblocks, commandblocks running functions in Minecraft.
 
 # My Social Media
 
