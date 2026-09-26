@@ -21,13 +21,13 @@
 
 <div align="center">
 
-| Platform | Contact |
-| :---: | :---: |
-| [![](https://img.shields.io/badge/-bilibili-00A1D6?logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/361846321) | Csrua |
-| [![](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/Gold-RsC) | Gold-RsC |
-| [![](https://img.shields.io/badge/-zhihu-0084FF?logo=zhihu&logoColor=white&labelColor=0084FF)](https://www.zhihu.com/people/17wwhx) | Csrua |
-| ![](https://img.shields.io/badge/-QQ-12B7F5?logo=qq&logoColor=white&labelColor=12B7F5) | 310106329 |
-| ![](https://img.shields.io/badge/-email-D14836?logo=gmail&logoColor=white&labelColor=D14836) | gold_rsc@163.com |
+|                                                                  Platform                                                                  |     Contact      |
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+| [![](https://img.shields.io/badge/-bilibili-00A1D6?logo=bilibili&logoColor=white&labelColor=00A1D6)](https://space.bilibili.com/361846321) |      Csrua       |
+|       [![](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/Gold-RsC)        |     Gold-RsC     |
+|    [![](https://img.shields.io/badge/-zhihu-0084FF?logo=zhihu&logoColor=white&labelColor=0084FF)](https://www.zhihu.com/people/17wwhx)     |      Csrua       |
+|                           ![](https://img.shields.io/badge/-QQ-12B7F5?logo=qq&logoColor=white&labelColor=12B7F5)                           |    310106329     |
+|                        ![](https://img.shields.io/badge/-email-D14836?logo=gmail&logoColor=white&labelColor=D14836)                        | gold_rsc@163.com |
 
 </div>
 
@@ -37,8 +37,8 @@
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
+|                                                                                              GitHub Stats                                                                                               |                                                                                                 Top Languages                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub stats](https://github-stats-extended.vercel.app/api?username=Gold-RsC&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Gold-RsC&layout=compact&langs_count=4&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gold-RsC&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
@@ -54,5 +54,3 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,github,git,godot,js,nextjs)](https://skillicons.dev)
 
 </div>
-
-<!-- ![](https://komarev.com/ghpvc/?username=Gold-RsC&color=blue&style=flat-square&label=Profile+Views) -->
